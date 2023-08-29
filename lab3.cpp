@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    string str = "ABCiofgh19 2$%*";
+    string str = "MyNameIsMASumAhmed5693243soletTestValue%#$$@#$@";
     int a, i, count = 0;
     int upper = 0, lower = 0, digit = 0, special = 0, vowels = 0, consonants = 0;
 
